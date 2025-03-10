@@ -1,4 +1,4 @@
-module ssov1
+module github.com/Underwoodoff/protos
 
 go 1.24.1
 
